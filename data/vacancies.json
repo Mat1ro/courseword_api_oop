@@ -1,8 +1,14 @@
 [
-  {
-    "position": "Java Developer",
-    "url": "https://hh.ru/vacancy/34543",
-    "salary": 300,
-    "description": "\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f: \u043e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u043e\u0442 3 \u043b\u0435\u0442"
-  }
+    {
+        "position": "Java Developer",
+        "url": "https://hh.ru/vacancy/34543",
+        "salary": 300,
+        "description": "Требования: опыт работы от 3 лет"
+    },
+    {
+        "position": "C++",
+        "url": "http://cppreference.com/",
+        "salary": 10000,
+        "description": "Algorithms"
+    }
 ]
