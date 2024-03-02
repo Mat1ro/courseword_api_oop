@@ -1,4 +1,5 @@
 import os
+from pprint import pprint
 
 from dotenv import load_dotenv
 
@@ -14,6 +15,7 @@ class JsonHelper:
     @staticmethod
     def add_vacancy(vacancy: Vacancy) -> None:
         data: list = FileHelper.read_file(VACANCIES_DATA_PATH)
+        pprint(data)
         data.append(vacancy.__dict__)
         FileHelper.save_data(VACANCIES_DATA_PATH, data)
 
@@ -32,4 +34,3 @@ class JsonHelper:
         if vacancy.__dict__ in data:
             data.remove(vacancy.__dict__)
             FileHelper.save_data(VACANCIES_DATA_PATH, data)
-

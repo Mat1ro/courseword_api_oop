@@ -8,9 +8,8 @@ class FileHelper:
         try:
             with open(path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
-                return data
         except json.JSONDecodeError:
-            print("File is empty")
+            print("File was empty")
         finally:
             return data
 
