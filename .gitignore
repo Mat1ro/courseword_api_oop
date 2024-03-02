@@ -1,5 +1,35 @@
-.idea
+# компилированные файлы
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# файлы проекта IDE
 .idea/
-./.idea
-./.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+
+# файлы конфигурации
 .env
+.config
+.settings
+
+# временные файлы
+*.tmp
+*.bak
+*.swp
+
+# логи и кэши
+*.log
+*.cache
+
+# директории для хранения загруженных файлов
+/uploads/
+/static/
+
+# файлы документации
+/docs/
+/build/
