@@ -1,7 +1,6 @@
 from requests import request
 
 from vacancies.vacancies_API.search_API import SearchAPI
-from vacancies.vacancy import Vacancy
 
 
 class HeadhunterAPI(SearchAPI):
@@ -15,20 +14,6 @@ class HeadhunterAPI(SearchAPI):
 
     @property
     def vacancies(self):
-        return self._vacancies
-
-    def _pretty_view(self, data: list):
-        vacancies = []
-        for vacancy in data:
-            vacancies.append(Vacancy(
-                position=vacancy['name'],
-                url=vacancy['url'],
-                salary_from=vacancy['salary']['from'],
-                salary_to=vacancy['salary']['to'],
-                description=vacancy['snippet']['responsibility'],
-                must_know=vacancy['snippet']['requirement']
-            ))
-        self._vacancies = vacancies
         return self._vacancies
 
     def get_vacancies(self, search_request: str) -> list:

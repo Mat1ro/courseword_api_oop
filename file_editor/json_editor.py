@@ -12,10 +12,9 @@ VACANCIES_DATA_PATH = os.getenv("VACANCIES_DATA_PATH")
 class JsonHelper:
 
     @staticmethod
-    def add_vacancy(vacancy: Vacancy) -> None:
+    def add_vacancy(vacancies: list[Vacancy]) -> None:
         data: list = FileHelper.read_file(VACANCIES_DATA_PATH)
-        data.append(vacancy.__dict__)
-        FileHelper.save_data(VACANCIES_DATA_PATH, data)
+        FileHelper.save_data(VACANCIES_DATA_PATH, data + vacancies)
 
     @staticmethod
     def get_vacancies_by_salary(salary_from: int, salary_to: int) -> list:
@@ -27,8 +26,9 @@ class JsonHelper:
         return result
 
     @staticmethod
-    def delete_vacancy(vacancy: Vacancy) -> None:
+    def delete_vacancy(vacancies: list[Vacancy]) -> None:
         data: list = FileHelper.read_file(VACANCIES_DATA_PATH)
-        if vacancy.__dict__ in data:
-            data.remove(vacancy.__dict__)
-            FileHelper.save_data(VACANCIES_DATA_PATH, data)
+        for vacancy in vacancies:
+            if vacancy in data:
+                data.remove(vacancy)
+        FileHelper.save_data(VACANCIES_DATA_PATH, data)
