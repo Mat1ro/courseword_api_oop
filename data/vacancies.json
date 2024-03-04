@@ -1,14 +1,18 @@
 [
     {
-        "position": "Java Developer",
-        "url": "https://hh.ru/vacancy/34543",
-        "salary": 300,
-        "description": "Требования: опыт работы от 3 лет"
+        "position": "Python Developer",
+        "url": "https://example.com/job1",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "description": "Develop and maintain Python applications.",
+        "must_know": "Python, Django, SQL"
     },
     {
-        "position": "C++",
-        "url": "http://cppreference.com/",
-        "salary": 10000,
-        "description": "Algorithms"
+        "position": "Data Scientist",
+        "url": "https://example.com/job2",
+        "salary_from": 60000,
+        "salary_to": 85000,
+        "description": "Analyze and interpret complex data.",
+        "must_know": "Python, Pandas, Scikit-learn, TensorFlow"
     }
 ]

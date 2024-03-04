@@ -19,10 +19,10 @@ class JsonHelper:
 
     @staticmethod
     def get_vacancies_by_salary(salary_from: int, salary_to: int) -> list:
-        result: list = []
+        result: list = list()
         vacancies = FileHelper.read_file(VACANCIES_DATA_PATH)
         for vacancy in vacancies:
-            if salary_from <= vacancy['salary'] <= salary_to:
+            if salary_from <= vacancy["salary_from"] <= salary_to:
                 result.append(vacancy)
         return result
 

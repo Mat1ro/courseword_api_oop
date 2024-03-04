@@ -1,6 +1,11 @@
+from dataclasses import dataclass
+
+
+@dataclass
 class Vacancy:
-    def __init__(self, position: str, url: str, salary: int, description: str):
-        self.position = position
-        self.url = url
-        self.salary = salary
-        self.description = description
+    position: str
+    url: str
+    salary_from: int
+    salary_to: int
+    description: str
+    must_know: str
