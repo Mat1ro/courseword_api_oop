@@ -27,7 +27,7 @@ class SuperJobAPI(SearchAPI):
     def _pretty_view(self, data: list) -> list:
         vacancies = []
         for vacancy in data:
-            if vacancy['payment_from'] == 0:
+            if vacancy['payment_from'] == 0 or vacancy['payment_from'] is None:
                 continue
             vacancies.append(Vacancy(
                 position=vacancy['profession'],
@@ -46,3 +46,8 @@ class SuperJobAPI(SearchAPI):
                        headers=self._headers).json()['objects']
         self._vacancies = self._pretty_view(data)
         return self._vacancies
+
+    def get_top_n_vacancies(self, n: int, search_request: str) -> list:
+        self._vacancies = self.get_vacancies(search_request)
+        self._vacancies.sort(key=lambda x: x['salary_from'], reverse=True)
+        return self._vacancies[:n]

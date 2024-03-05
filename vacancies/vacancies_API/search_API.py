@@ -9,3 +9,7 @@ class SearchAPI(ABC):
     @abstractmethod
     def _pretty_view(self, data: list):
         pass
+
+    @abstractmethod
+    def get_top_n_vacancies(self, n: int, search_request: str) -> list:
+        pass
