@@ -72,14 +72,6 @@
         "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
     },
     {
-        "position": "Программист Python",
-        "url": "https://api.hh.ru/vacancies/94188347?host=hh.ru",
-        "salary_from": null,
-        "salary_to": 70000,
-        "description": "Разработка и доработка api для сайтов и веб-приложений. Поддержка работоспособности серверной части наших проектов. Взаимодействие с пользователями для выявления...",
-        "must_know": "Уверенное владение git. Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание Django Rest Framework. Умение развернуть проект на сервере (Docker). Уверенное владение Linux. "
-    },
-    {
         "position": "Программист-разработчик в IT-компанию (Удаленно)",
         "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
         "salary_from": 1000,
@@ -142,14 +134,6 @@
         "salary_to": null,
         "description": "Обработке данных. Разработке и выполнению SQL-запросов. Подготовке дашбордов, графиков, необходимых отчетов и таблиц данных. Формированию регулярной отчетности для заказчиков. ",
         "must_know": "...datalens, tableau и т.д.. Есть опыт работы с различными СУБД: PostgreSQL, MySQL. Есть понимание SQL. Знание <highlighttext>Python</highlighttext> будет преимуществом."
-    },
-    {
-        "position": "Технический директор",
-        "url": "https://api.hh.ru/vacancies/93895266?host=hh.ru",
-        "salary_from": null,
-        "salary_to": 500000,
-        "description": "Управление командами разработки: Найм сотрудников. Разработка планов развития. Организация обучения. Мотивация. Организация работы команд разработки, включая взаимодействие с другими отделами...",
-        "must_know": "Высшее образование в области информационных технологий и разработки ПО. Опыт работы в области разработки программного обеспечения от 5 лет. "
     },
     {
         "position": "Junior backend Go разработчик (Golang) / стажер (Удаленно)",
@@ -318,5 +302,765 @@
         "salary_to": 250000,
         "description": "<p><b>Если вы амбициозный человек, с масштабными планами, желающий стать крутым разработчиком, готовы обсудить варианты обучения.</b></p><p><b>Если вы уже крутой разработчик, знающий какие проекты для него будут интересны и близки, зарплата обговаривается индивидуально.</b></p><p><b>Мы предлагаем вам:</b></p><p><ul><li><b>Интересные и сложные проекты. </b> ( Задачи которые бросают вызов и позволяют учиться и расти. Решайте интересные задачи и создавайте инновационные решения.)</li><li><b>Хорошую зарплату и льготы.</b> ( Справедливая компенсация за ваш вклад в общее дело. Развивайся без потолка возможностей. )</li><li>Возможности для профессионального роста. ( Возможности расти финансово и развиваться в своей карьере. Бери на себя новые задачи и ответственность )</li><li><b>Хорошую корпоративную среду</b>. ( Развивайся в позитивной и поддерживающей корпоративной среде. Почувствуй себя ценным и уважаемым, сотрудничая с другими талантливыми программистами.)</li><li><b>Возможность влиять на мир.</b> ( Используй свои навыки для оказания положительного влияния на мир. Трудись над проектами, которые решают важные проблемы и улучшают жизнь людей.)</li><li><b>Возможность не переживать о завтрашнем дне</b>. ( Стань частью крутой команды программистов, которые из года в год меняют себя и мир вокруг них к лучшему )</li><li>График работы с 08:00 до 17:00</li></ul><b>Чем предстоит заниматься:</b></p><p><ul><li>Доработка конфигураций 1 С 8.3 УНФ, Бухгалтерия, Розница, Зарплата и кадры</li><li>Создание отчетов и обработок</li><li>Доработка и поддержка обменов между базами 1C</li><li>Обновление баз 1C</li><li>Техническая поддержка и консультирование пользователей</li></ul><b>От вас мы ожидаем:</b></p><p><ul><li>Опыт участия в проектах по доработке конфигураций 1C</li><li>Опыт сопровождения и обновления действующих конфигураций в программной среде 1C</li><li>Рассмотрим кандидатов без опыта</li><li>Подойдут люди с опытом: программист, middle, junior, senior, frontend, разработчик, системный администратор, Java - developer, C# - разработчик, Fullstack Middle Developer, Backend разработчик, Middle Python Developer, консультант, аналитик</li></ul></p>",
         "must_know": "Если вы амбициозный человек, с масштабными планами, желающий стать крутым разработчиком, готовы обсудить варианты обучения.\nЕсли вы уже крутой разработчик, знающий какие проекты для него будут интересны и близки, зарплата обговаривается индивидуально.\nМы предлагаем вам:\n• Интересные и сложные проекты.  ( Задачи которые бросают вызов и позволяют учиться и расти. Решайте интересные задачи и создавайте инновационные решения.)\n• Хорошую зарплату и льготы. ( Справедливая компенсация за ваш вклад в общее дело. Развивайся без потолка возможностей. )\n• Возможности для профессионального роста. ( Возможности расти финансово и развиваться в своей карьере. Бери на себя новые задачи и ответственность )\n• Хорошую корпоративную среду. ( Развивайся в позитивной и поддерживающей корпоративной среде. Почувствуй себя ценным и уважаемым, сотрудничая с другими талантливыми программистами.)\n• Возможность влиять на мир. ( Используй свои навыки для оказания положительного влияния на мир. Трудись над проектами, которые решают важные проблемы и улучшают жизнь людей.)\n• Возможность не переживать о завтрашнем дне. ( Стань частью крутой команды программистов, которые из года в год меняют себя и мир вокруг них к лучшему )\n• График работы с 08:00 до 17:00\nЧем предстоит заниматься:\n• Доработка конфигураций 1 С 8.3 УНФ, Бухгалтерия, Розница, Зарплата и кадры\n• Создание отчетов и обработок\n• Доработка и поддержка обменов между базами 1C\n• Обновление баз 1C\n• Техническая поддержка и консультирование пользователей\nОт вас мы ожидаем:\n• Опыт участия в проектах по доработке конфигураций 1C\n• Опыт сопровождения и обновления действующих конфигураций в программной среде 1C\n• Рассмотрим кандидатов без опыта\n• Подойдут люди с опытом: программист, middle, junior, senior, frontend, разработчик, системный администратор, Java - developer, C# - разработчик, Fullstack Middle Developer, Backend разработчик, Middle Python Developer, консультант, аналитик"
+    },
+    {
+        "position": "Python разработчик (Django)",
+        "url": "https://api.hh.ru/vacancies/94220802?host=hh.ru",
+        "salary_from": 500,
+        "salary_to": 980,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext>: Кандидат должен обладать прочными знаниями языка программирования <highlighttext>Python</highlighttext>, включая понимание его основных принципов, синтаксиса и идиоматических конструкций. "
+    },
+    {
+        "position": "Junior Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/94228875?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "description": "Написать приложение из 3х страниц: Страница авторизации в цветах и стиле основной страницы. В форме авторизации email и пароль. ",
+        "must_know": "Имеете опыт работы с Node.js. Знаете английский на уровне чтения технической документации. Уверенно владеете React + (Redux, Hooks, etc.). "
+    },
+    {
+        "position": "Python junior разработчик",
+        "url": "https://api.hh.ru/vacancies/94120837?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Разработка алгоритмов обработки данных полученных из разных источников (cv, нейросети, датчики и т.п.). Применение математических подходов для описания геометрически...",
+        "must_know": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
+    },
+    {
+        "position": "Web-Developer",
+        "url": "https://api.hh.ru/vacancies/94107682?host=hh.ru",
+        "salary_from": 400,
+        "salary_to": 1500,
+        "description": null,
+        "must_know": "Опытное знание <highlighttext>Python</highlighttext> и React. Уверенное владение библиотекой aiogram для <highlighttext>Python</highlighttext>. Опыт работы с фреймворками Flask, Django или FastAPI. "
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/94213932?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Написание аналитических записок по результатам ваших исследований. Проведение аналитических исследований в части эффективного использования ресурсов. Построение выводов на базе аналитики...",
+        "must_know": "Умение проверить гипотезу, выбрать правильный алгоритм, обосновать выбор. Умение интерпретировать результаты возможными причинами и фиксация их выводами. Опыт использования <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "position": "Программист Python Back-end",
+        "url": "https://api.hh.ru/vacancies/94218458?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Развитие имеющихся REST библиотек, создание новых. Интеграции с CRM системами. Участие в видеоконференциях (в том числе с англоязычными партнерами). ",
+        "must_know": "<highlighttext>Python</highlighttext> (3). Flask (или Django). Понимание архитектуры REST. OAuth2.0 протокол. SQL на уровне написания несложных запросов к имеющимся..."
+    },
+    {
+        "position": "Junior python developer (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93742422?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Системное администрирование и работа с Ubuntu. Управление сервисами с помощью systemctl - опыт работы, знание основных команд (проверка статуса сервиса, запуск...",
+        "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "position": "Junior программист Python",
+        "url": "https://api.hh.ru/vacancies/93804724?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Поддержка микросервисов. Разработка интеграций с внешними и внутренними сервисами. Участие в разработке моделей по прогнозированию.",
+        "must_know": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "position": "Backend-разработчик, удаленно",
+        "url": "https://api.hh.ru/vacancies/94112195?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114941?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Младший (junior) программист Python",
+        "url": "https://api.hh.ru/vacancies/93969272?host=hh.ru",
+        "salary_from": 37050,
+        "salary_to": 78750,
+        "description": "Разработка драйверов устройств и/или высокоуровневой логики.",
+        "must_know": "Понимание принципа (или опыт) работы Server Side Events и их реализации в языке <highlighttext>Python</highlighttext>. Понимание принципа (или опыт) работы Docker..."
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268155?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268238?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/94195253?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Учавствовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (<highlighttext>Python</highlighttext>). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "must_know": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Умел работать с..."
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114982?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92759242?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Автоматизация отчетности (от сбора данных до отправки результатов). Ad-hoc аналитика (<highlighttext>Python</highlighttext>, SQL) для различных отделов. Создание и поддержка аналитических...",
+        "must_know": "Опыт работы от года в качестве аналитика данных. Знание <highlighttext>Python</highlighttext> (библиотека pandas). Знание SQL (СУБД ClickHouse, агрегация, оконные функции). "
+    },
+    {
+        "position": "Программист-разработчик в IT-компанию (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "Разработка и поддержка веб-сайтов и приложений с использованием современных технологий. Участие во всех этапах разработки: от концепции до выпуска...",
+        "must_know": "Глубокие знания HTML, CSS, JavaScript и других веб-технологий. Знание языков программирования, таких как <highlighttext>Python</highlighttext>, Java или PHP. "
+    },
+    {
+        "position": "Junior Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/93919883?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Работа в команде разработки сервиса автоматизации подготовки книг. В составе команды предстоит решать продуктовые задачи. У нас нет вёрстки однотипных...",
+        "must_know": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово React. "
+    },
+    {
+        "position": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/93106678?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. ",
+        "must_know": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
+    },
+    {
+        "position": "Python разработчик (Django)",
+        "url": "https://api.hh.ru/vacancies/94220802?host=hh.ru",
+        "salary_from": 500,
+        "salary_to": 980,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext>: Кандидат должен обладать прочными знаниями языка программирования <highlighttext>Python</highlighttext>, включая понимание его основных принципов, синтаксиса и идиоматических конструкций. "
+    },
+    {
+        "position": "Junior Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/94228875?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "description": "Написать приложение из 3х страниц: Страница авторизации в цветах и стиле основной страницы. В форме авторизации email и пароль. ",
+        "must_know": "Имеете опыт работы с Node.js. Знаете английский на уровне чтения технической документации. Уверенно владеете React + (Redux, Hooks, etc.). "
+    },
+    {
+        "position": "Python junior разработчик",
+        "url": "https://api.hh.ru/vacancies/94120837?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Разработка алгоритмов обработки данных полученных из разных источников (cv, нейросети, датчики и т.п.). Применение математических подходов для описания геометрически...",
+        "must_know": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
+    },
+    {
+        "position": "Web-Developer",
+        "url": "https://api.hh.ru/vacancies/94107682?host=hh.ru",
+        "salary_from": 400,
+        "salary_to": 1500,
+        "description": null,
+        "must_know": "Опытное знание <highlighttext>Python</highlighttext> и React. Уверенное владение библиотекой aiogram для <highlighttext>Python</highlighttext>. Опыт работы с фреймворками Flask, Django или FastAPI. "
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/94213932?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Написание аналитических записок по результатам ваших исследований. Проведение аналитических исследований в части эффективного использования ресурсов. Построение выводов на базе аналитики...",
+        "must_know": "Умение проверить гипотезу, выбрать правильный алгоритм, обосновать выбор. Умение интерпретировать результаты возможными причинами и фиксация их выводами. Опыт использования <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "position": "Программист Python Back-end",
+        "url": "https://api.hh.ru/vacancies/94218458?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Развитие имеющихся REST библиотек, создание новых. Интеграции с CRM системами. Участие в видеоконференциях (в том числе с англоязычными партнерами). ",
+        "must_know": "<highlighttext>Python</highlighttext> (3). Flask (или Django). Понимание архитектуры REST. OAuth2.0 протокол. SQL на уровне написания несложных запросов к имеющимся..."
+    },
+    {
+        "position": "Junior python developer (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93742422?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Системное администрирование и работа с Ubuntu. Управление сервисами с помощью systemctl - опыт работы, знание основных команд (проверка статуса сервиса, запуск...",
+        "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "position": "Junior программист Python",
+        "url": "https://api.hh.ru/vacancies/93804724?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Поддержка микросервисов. Разработка интеграций с внешними и внутренними сервисами. Участие в разработке моделей по прогнозированию.",
+        "must_know": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "position": "Backend-разработчик, удаленно",
+        "url": "https://api.hh.ru/vacancies/94112195?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114941?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Младший (junior) программист Python",
+        "url": "https://api.hh.ru/vacancies/93969272?host=hh.ru",
+        "salary_from": 37050,
+        "salary_to": 78750,
+        "description": "Разработка драйверов устройств и/или высокоуровневой логики.",
+        "must_know": "Понимание принципа (или опыт) работы Server Side Events и их реализации в языке <highlighttext>Python</highlighttext>. Понимание принципа (или опыт) работы Docker..."
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268155?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268238?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/94195253?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Учавствовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (<highlighttext>Python</highlighttext>). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "must_know": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Умел работать с..."
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114982?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92759242?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Автоматизация отчетности (от сбора данных до отправки результатов). Ad-hoc аналитика (<highlighttext>Python</highlighttext>, SQL) для различных отделов. Создание и поддержка аналитических...",
+        "must_know": "Опыт работы от года в качестве аналитика данных. Знание <highlighttext>Python</highlighttext> (библиотека pandas). Знание SQL (СУБД ClickHouse, агрегация, оконные функции). "
+    },
+    {
+        "position": "Программист-разработчик в IT-компанию (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "Разработка и поддержка веб-сайтов и приложений с использованием современных технологий. Участие во всех этапах разработки: от концепции до выпуска...",
+        "must_know": "Глубокие знания HTML, CSS, JavaScript и других веб-технологий. Знание языков программирования, таких как <highlighttext>Python</highlighttext>, Java или PHP. "
+    },
+    {
+        "position": "Junior Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/93919883?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Работа в команде разработки сервиса автоматизации подготовки книг. В составе команды предстоит решать продуктовые задачи. У нас нет вёрстки однотипных...",
+        "must_know": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово React. "
+    },
+    {
+        "position": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/93106678?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. ",
+        "must_know": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
+    },
+    {
+        "position": "Python разработчик (Django)",
+        "url": "https://api.hh.ru/vacancies/94220802?host=hh.ru",
+        "salary_from": 500,
+        "salary_to": 980,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext>: Кандидат должен обладать прочными знаниями языка программирования <highlighttext>Python</highlighttext>, включая понимание его основных принципов, синтаксиса и идиоматических конструкций. "
+    },
+    {
+        "position": "Junior Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/94228875?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "description": "Написать приложение из 3х страниц: Страница авторизации в цветах и стиле основной страницы. В форме авторизации email и пароль. ",
+        "must_know": "Имеете опыт работы с Node.js. Знаете английский на уровне чтения технической документации. Уверенно владеете React + (Redux, Hooks, etc.). "
+    },
+    {
+        "position": "Python junior разработчик",
+        "url": "https://api.hh.ru/vacancies/94120837?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Разработка алгоритмов обработки данных полученных из разных источников (cv, нейросети, датчики и т.п.). Применение математических подходов для описания геометрически...",
+        "must_know": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
+    },
+    {
+        "position": "Web-Developer",
+        "url": "https://api.hh.ru/vacancies/94107682?host=hh.ru",
+        "salary_from": 400,
+        "salary_to": 1500,
+        "description": null,
+        "must_know": "Опытное знание <highlighttext>Python</highlighttext> и React. Уверенное владение библиотекой aiogram для <highlighttext>Python</highlighttext>. Опыт работы с фреймворками Flask, Django или FastAPI. "
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/94213932?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Написание аналитических записок по результатам ваших исследований. Проведение аналитических исследований в части эффективного использования ресурсов. Построение выводов на базе аналитики...",
+        "must_know": "Умение проверить гипотезу, выбрать правильный алгоритм, обосновать выбор. Умение интерпретировать результаты возможными причинами и фиксация их выводами. Опыт использования <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "position": "Программист Python Back-end",
+        "url": "https://api.hh.ru/vacancies/94218458?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Развитие имеющихся REST библиотек, создание новых. Интеграции с CRM системами. Участие в видеоконференциях (в том числе с англоязычными партнерами). ",
+        "must_know": "<highlighttext>Python</highlighttext> (3). Flask (или Django). Понимание архитектуры REST. OAuth2.0 протокол. SQL на уровне написания несложных запросов к имеющимся..."
+    },
+    {
+        "position": "Junior python developer (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93742422?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Системное администрирование и работа с Ubuntu. Управление сервисами с помощью systemctl - опыт работы, знание основных команд (проверка статуса сервиса, запуск...",
+        "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "position": "Junior программист Python",
+        "url": "https://api.hh.ru/vacancies/93804724?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Поддержка микросервисов. Разработка интеграций с внешними и внутренними сервисами. Участие в разработке моделей по прогнозированию.",
+        "must_know": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "position": "Backend-разработчик, удаленно",
+        "url": "https://api.hh.ru/vacancies/94112195?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114941?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Младший (junior) программист Python",
+        "url": "https://api.hh.ru/vacancies/93969272?host=hh.ru",
+        "salary_from": 37050,
+        "salary_to": 78750,
+        "description": "Разработка драйверов устройств и/или высокоуровневой логики.",
+        "must_know": "Понимание принципа (или опыт) работы Server Side Events и их реализации в языке <highlighttext>Python</highlighttext>. Понимание принципа (или опыт) работы Docker..."
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268155?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268238?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/94195253?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Учавствовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (<highlighttext>Python</highlighttext>). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "must_know": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Умел работать с..."
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114982?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92759242?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Автоматизация отчетности (от сбора данных до отправки результатов). Ad-hoc аналитика (<highlighttext>Python</highlighttext>, SQL) для различных отделов. Создание и поддержка аналитических...",
+        "must_know": "Опыт работы от года в качестве аналитика данных. Знание <highlighttext>Python</highlighttext> (библиотека pandas). Знание SQL (СУБД ClickHouse, агрегация, оконные функции). "
+    },
+    {
+        "position": "Программист-разработчик в IT-компанию (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "Разработка и поддержка веб-сайтов и приложений с использованием современных технологий. Участие во всех этапах разработки: от концепции до выпуска...",
+        "must_know": "Глубокие знания HTML, CSS, JavaScript и других веб-технологий. Знание языков программирования, таких как <highlighttext>Python</highlighttext>, Java или PHP. "
+    },
+    {
+        "position": "Junior Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/93919883?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Работа в команде разработки сервиса автоматизации подготовки книг. В составе команды предстоит решать продуктовые задачи. У нас нет вёрстки однотипных...",
+        "must_know": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово React. "
+    },
+    {
+        "position": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/93106678?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. ",
+        "must_know": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
+    },
+    {
+        "position": "Python разработчик (Django)",
+        "url": "https://api.hh.ru/vacancies/94220802?host=hh.ru",
+        "salary_from": 500,
+        "salary_to": 980,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext>: Кандидат должен обладать прочными знаниями языка программирования <highlighttext>Python</highlighttext>, включая понимание его основных принципов, синтаксиса и идиоматических конструкций. "
+    },
+    {
+        "position": "Junior Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/94228875?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "description": "Написать приложение из 3х страниц: Страница авторизации в цветах и стиле основной страницы. В форме авторизации email и пароль. ",
+        "must_know": "Имеете опыт работы с Node.js. Знаете английский на уровне чтения технической документации. Уверенно владеете React + (Redux, Hooks, etc.). "
+    },
+    {
+        "position": "Python junior разработчик",
+        "url": "https://api.hh.ru/vacancies/94120837?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Разработка алгоритмов обработки данных полученных из разных источников (cv, нейросети, датчики и т.п.). Применение математических подходов для описания геометрически...",
+        "must_know": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
+    },
+    {
+        "position": "Web-Developer",
+        "url": "https://api.hh.ru/vacancies/94107682?host=hh.ru",
+        "salary_from": 400,
+        "salary_to": 1500,
+        "description": null,
+        "must_know": "Опытное знание <highlighttext>Python</highlighttext> и React. Уверенное владение библиотекой aiogram для <highlighttext>Python</highlighttext>. Опыт работы с фреймворками Flask, Django или FastAPI. "
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/94213932?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Написание аналитических записок по результатам ваших исследований. Проведение аналитических исследований в части эффективного использования ресурсов. Построение выводов на базе аналитики...",
+        "must_know": "Умение проверить гипотезу, выбрать правильный алгоритм, обосновать выбор. Умение интерпретировать результаты возможными причинами и фиксация их выводами. Опыт использования <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "position": "Программист Python Back-end",
+        "url": "https://api.hh.ru/vacancies/94218458?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Развитие имеющихся REST библиотек, создание новых. Интеграции с CRM системами. Участие в видеоконференциях (в том числе с англоязычными партнерами). ",
+        "must_know": "<highlighttext>Python</highlighttext> (3). Flask (или Django). Понимание архитектуры REST. OAuth2.0 протокол. SQL на уровне написания несложных запросов к имеющимся..."
+    },
+    {
+        "position": "Junior python developer (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93742422?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Системное администрирование и работа с Ubuntu. Управление сервисами с помощью systemctl - опыт работы, знание основных команд (проверка статуса сервиса, запуск...",
+        "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "position": "Junior программист Python",
+        "url": "https://api.hh.ru/vacancies/93804724?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Поддержка микросервисов. Разработка интеграций с внешними и внутренними сервисами. Участие в разработке моделей по прогнозированию.",
+        "must_know": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "position": "Backend-разработчик, удаленно",
+        "url": "https://api.hh.ru/vacancies/94112195?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114941?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Младший (junior) программист Python",
+        "url": "https://api.hh.ru/vacancies/93969272?host=hh.ru",
+        "salary_from": 37050,
+        "salary_to": 78750,
+        "description": "Разработка драйверов устройств и/или высокоуровневой логики.",
+        "must_know": "Понимание принципа (или опыт) работы Server Side Events и их реализации в языке <highlighttext>Python</highlighttext>. Понимание принципа (или опыт) работы Docker..."
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268155?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268238?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/94195253?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Учавствовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (<highlighttext>Python</highlighttext>). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "must_know": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Умел работать с..."
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114982?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92759242?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Автоматизация отчетности (от сбора данных до отправки результатов). Ad-hoc аналитика (<highlighttext>Python</highlighttext>, SQL) для различных отделов. Создание и поддержка аналитических...",
+        "must_know": "Опыт работы от года в качестве аналитика данных. Знание <highlighttext>Python</highlighttext> (библиотека pandas). Знание SQL (СУБД ClickHouse, агрегация, оконные функции). "
+    },
+    {
+        "position": "Программист-разработчик в IT-компанию (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "Разработка и поддержка веб-сайтов и приложений с использованием современных технологий. Участие во всех этапах разработки: от концепции до выпуска...",
+        "must_know": "Глубокие знания HTML, CSS, JavaScript и других веб-технологий. Знание языков программирования, таких как <highlighttext>Python</highlighttext>, Java или PHP. "
+    },
+    {
+        "position": "Junior Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/93919883?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Работа в команде разработки сервиса автоматизации подготовки книг. В составе команды предстоит решать продуктовые задачи. У нас нет вёрстки однотипных...",
+        "must_know": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово React. "
+    },
+    {
+        "position": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/93106678?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. ",
+        "must_know": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
+    },
+    {
+        "position": "Python разработчик (Django)",
+        "url": "https://api.hh.ru/vacancies/94220802?host=hh.ru",
+        "salary_from": 500,
+        "salary_to": 980,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext>: Кандидат должен обладать прочными знаниями языка программирования <highlighttext>Python</highlighttext>, включая понимание его основных принципов, синтаксиса и идиоматических конструкций. "
+    },
+    {
+        "position": "Junior Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/94228875?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": 50000,
+        "description": "Написать приложение из 3х страниц: Страница авторизации в цветах и стиле основной страницы. В форме авторизации email и пароль. ",
+        "must_know": "Имеете опыт работы с Node.js. Знаете английский на уровне чтения технической документации. Уверенно владеете React + (Redux, Hooks, etc.). "
+    },
+    {
+        "position": "Python junior разработчик",
+        "url": "https://api.hh.ru/vacancies/94120837?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Разработка алгоритмов обработки данных полученных из разных источников (cv, нейросети, датчики и т.п.). Применение математических подходов для описания геометрически...",
+        "must_know": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. Умение придумывать и реализовывать алгоритмы. Опыт работы с OpenCV, Numpy, Scipy. Хорошая математическая подготовка..."
+    },
+    {
+        "position": "Web-Developer",
+        "url": "https://api.hh.ru/vacancies/94107682?host=hh.ru",
+        "salary_from": 400,
+        "salary_to": 1500,
+        "description": null,
+        "must_know": "Опытное знание <highlighttext>Python</highlighttext> и React. Уверенное владение библиотекой aiogram для <highlighttext>Python</highlighttext>. Опыт работы с фреймворками Flask, Django или FastAPI. "
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/94213932?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Написание аналитических записок по результатам ваших исследований. Проведение аналитических исследований в части эффективного использования ресурсов. Построение выводов на базе аналитики...",
+        "must_know": "Умение проверить гипотезу, выбрать правильный алгоритм, обосновать выбор. Умение интерпретировать результаты возможными причинами и фиксация их выводами. Опыт использования <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "position": "Программист Python Back-end",
+        "url": "https://api.hh.ru/vacancies/94218458?host=hh.ru",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Развитие имеющихся REST библиотек, создание новых. Интеграции с CRM системами. Участие в видеоконференциях (в том числе с англоязычными партнерами). ",
+        "must_know": "<highlighttext>Python</highlighttext> (3). Flask (или Django). Понимание архитектуры REST. OAuth2.0 протокол. SQL на уровне написания несложных запросов к имеющимся..."
+    },
+    {
+        "position": "Junior python developer (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93742422?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Системное администрирование и работа с Ubuntu. Управление сервисами с помощью systemctl - опыт работы, знание основных команд (проверка статуса сервиса, запуск...",
+        "must_know": "CURL - опыт работы и понимание основных принципов. Многопоточность в <highlighttext>Python</highlighttext> (threading). Знание SQL. Опыт развертывания postgreSQL на сервере и её..."
+    },
+    {
+        "position": "Junior программист Python",
+        "url": "https://api.hh.ru/vacancies/93804724?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Поддержка микросервисов. Разработка интеграций с внешними и внутренними сервисами. Участие в разработке моделей по прогнозированию.",
+        "must_know": "Уверенное знание <highlighttext>Python</highlighttext>. Уверенное знание SQL(PSQL, MSSQL). Умение работать с FastAPI. Умение работать с Git. Знание SQLAlchemy. "
+    },
+    {
+        "position": "Backend-разработчик, удаленно",
+        "url": "https://api.hh.ru/vacancies/94112195?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": null,
+        "must_know": "<highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114941?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Младший (junior) программист Python",
+        "url": "https://api.hh.ru/vacancies/93969272?host=hh.ru",
+        "salary_from": 37050,
+        "salary_to": 78750,
+        "description": "Разработка драйверов устройств и/или высокоуровневой логики.",
+        "must_know": "Понимание принципа (или опыт) работы Server Side Events и их реализации в языке <highlighttext>Python</highlighttext>. Понимание принципа (или опыт) работы Docker..."
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268155?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Разработчик Python (Support)",
+        "url": "https://api.hh.ru/vacancies/94268238?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Разбирать тикеты технической поддержки, оперативно и развернуто отвечать, передавать в разработку. Взаимодействовать с внешними пользователями для разрешения проблем. ",
+        "must_know": "Знал <highlighttext>Python</highlighttext>3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. "
+    },
+    {
+        "position": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/94195253?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "description": "Учавствовать в разработке продуктов компании на React. Тесно взаимодействовать с командой Backend (<highlighttext>Python</highlighttext>). Заниматься разработкой и интеграциями фронтенда по спецификации. ",
+        "must_know": "Имел опыт работы с JavaScript/TypeScript от 2 лет. Имел опыт работы с React от 2 лет. Умел работать с..."
+    },
+    {
+        "position": "Junior-разработчик",
+        "url": "https://api.hh.ru/vacancies/94114982?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Demand Planning – анализ и прогнозирование будущего спроса на товары и услуги. Supply Chain Planning – стратегический подход к управлению этапами создания...",
+        "must_know": "Ты знаешь инструменты для обработки и анализа данных, такие как Microsoft Excel, SQL, <highlighttext>Python</highlighttext> или R; умеешь работать с системами..."
+    },
+    {
+        "position": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92759242?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Автоматизация отчетности (от сбора данных до отправки результатов). Ad-hoc аналитика (<highlighttext>Python</highlighttext>, SQL) для различных отделов. Создание и поддержка аналитических...",
+        "must_know": "Опыт работы от года в качестве аналитика данных. Знание <highlighttext>Python</highlighttext> (библиотека pandas). Знание SQL (СУБД ClickHouse, агрегация, оконные функции). "
+    },
+    {
+        "position": "Программист-разработчик в IT-компанию (Удаленно)",
+        "url": "https://api.hh.ru/vacancies/93804253?host=hh.ru",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "Разработка и поддержка веб-сайтов и приложений с использованием современных технологий. Участие во всех этапах разработки: от концепции до выпуска...",
+        "must_know": "Глубокие знания HTML, CSS, JavaScript и других веб-технологий. Знание языков программирования, таких как <highlighttext>Python</highlighttext>, Java или PHP. "
+    },
+    {
+        "position": "Junior Frontend - разработчик",
+        "url": "https://api.hh.ru/vacancies/93919883?host=hh.ru",
+        "salary_from": 50000,
+        "salary_to": null,
+        "description": "Работа в команде разработки сервиса автоматизации подготовки книг. В составе команды предстоит решать продуктовые задачи. У нас нет вёрстки однотипных...",
+        "must_know": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Чего ждём от вас? Умение программировать на JavaScript. Слышал слово React. "
+    },
+    {
+        "position": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/93106678?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. ",
+        "must_know": "Уверенное владение языком программирования <highlighttext>Python</highlighttext>. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий..."
     }
 ]

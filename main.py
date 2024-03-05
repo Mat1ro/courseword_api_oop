@@ -1,36 +1,48 @@
-# # Creating a class instance to work with the APIs of job search sites
-# hh_api = HeadHunterAPI()
-# superjob_api = SuperJobAPI()
-#
-# # Getting job vacancies from different platforms
-# hh_vacancies = hh_api.get_vacancies("Python")
-# superjob_vacancies = superjob_api.get_vacancies("Python")
-#
-# # Creating a class instance to work with vacancies
-# vacancies = Vacancy("Python Developer", "<https://hh.ru/vacancy/123456>", "100 000-150 000 руб.", "Требования: опыт работы от 3 лет...")
-#
-# # Saving information about vacancies to a file
-# json_helper = JSONHelper()
-# json_helper.add_vacancy(vacancies)
-# json_helper.get_vacancies_by_salary("100 000-150 000 руб.")
-# json_helper.delete_vacancy(vacancies)
-#
-# # Function to interact with the user
-# def user_interaction():
-#     platforms = ["HeadHunter", "SuperJob"]
-#     search_query = input("Enter a search query: ")
-#     top_n = int(input("Enter the number of vacancies to display in top N: "))
-#     filter_words = input("Enter keywords to filter vacancies: ").split()
-#     filtered_vacancies = filter_vacancies(hh_vacancies, superjob_vacancies, filter_words)
-#
-#     if not filtered_vacancies:
-#         print("Vacancies matching the selected criteria are not found.")
-#         return
-#
-#     sorted_vacancies = sort_vacancies(filtered_vacancies)
-#     top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
-#     print_vacancies(top_vacancies)
-#
-#
-# if __name__ == "__main__":
-#     user_interaction()
+from file_editor.json_editor import JsonHelper
+from vacancies.vacancies_API.headhunter import HeadhunterAPI
+from vacancies.vacancies_API.superjob import SuperJobAPI
+
+headHunter = HeadhunterAPI()
+superJob = SuperJobAPI()
+
+
+def output_vacancy(vacancy):
+    print(f'Должность - {vacancy["position"]}\n'
+          f'Ссылка - {vacancy["url"]}\n'
+          f'Зарплата {vacancy["salary_from"]} - {vacancy["salary_to"]}\n'
+          f'Описание - {vacancy["description"]}\n'
+          f'Требования - {vacancy["must_know"]}\n')
+
+
+def find_by_query(search_engine, query: str):
+    return search_engine.get_vacancies(query)
+
+
+def user_interaction():
+    search_engine = int(input("Где хочешь посмотреть вакансию, введи 1 или 2:\n"
+                              "1 - Headhunter\n"
+                              "2 - SuperJob\n"))
+    query = input("На какую профессию ищешь вакансии?\n")
+    if search_engine == 1:
+        result = find_by_query(headHunter, query)
+    else:
+        result = find_by_query(superJob, query)
+    for vacancy in result:
+        output_vacancy(vacancy)
+
+    JsonHelper.add_vacancy(result)
+    salary_from, salary_to = map(int, input("Введи в каком диапазоне хочешь видеть вакансии:\n"
+                                            "В формате '1000-2000'\n").split('-'))
+    for vacancy in JsonHelper.get_vacancies_by_salary(salary_from, salary_to):
+        output_vacancy(vacancy)
+    JsonHelper.delete_vacancy(result)
+
+    # Получение top N вакансий
+    n = int(input())
+    query = input()
+    headHunter.get_top_n_vacancies(n, query)
+    superJob.get_top_n_vacancies(n, query)
+
+
+if __name__ == "__main__":
+    user_interaction()
