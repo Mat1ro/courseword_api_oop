@@ -38,10 +38,12 @@ def user_interaction():
     JsonHelper.delete_vacancy(result)
 
     # Получение top N вакансий
-    n = int(input())
-    query = input()
-    headHunter.get_top_n_vacancies(n, query)
-    superJob.get_top_n_vacancies(n, query)
+    n = int(input("Получи топ N вакансий, введи N: "))
+    query = input("Теперь введи профессию: ")
+    print("Предложения из headhunter")
+    print(headHunter.get_top_n_vacancies(n, query))
+    print("Предложения из superjob")
+    print(superJob.get_top_n_vacancies(n, query))
 
 
 if __name__ == "__main__":

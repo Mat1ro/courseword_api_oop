@@ -1,11 +1,6 @@
-import os
-
-from dotenv import load_dotenv
-
 from file_editor.file_helper import FileHelper
 
-load_dotenv()
-VACANCIES_DATA_PATH = os.getenv("VACANCIES_DATA_PATH")
+VACANCIES_DATA_PATH = "./data/vacancies.json"
 
 
 class JsonHelper:
